@@ -15,3 +15,7 @@ https://github.com/miyanqii/TextInputLayoutSample/blob/master/app/src/main/res/v
 ## Layout
 
 https://github.com/miyanqii/TextInputLayoutSample/blob/master/app/src/main/res/layout/content_main.xml
+
+## AndroidManifest
+
+https://github.com/miyanqii/TextInputLayoutSample/blob/master/app/src/main/AndroidManifest.xml
